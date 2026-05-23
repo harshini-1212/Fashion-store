@@ -19,6 +19,7 @@ body{
     transform:translateY(-10px);
 }
 img{
+    width: 100%;
     object-fit: cover;
     height: 400px;
 }
@@ -27,4 +28,8 @@ img{
 }
 .cartegory{
     padding: 80px;
+}
+footer i{
+    margin: 0 10px;
+
 }
